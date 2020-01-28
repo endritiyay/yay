@@ -1,7 +1,7 @@
 +++
 authors = ["Dieta Bytyqi"]
 date = 2020-01-24T23:00:00Z
-excerpt = "Dollapet mund të jenë mbajtësit tonë të sekretve që nuk duam t’i shpalosim kurrë, megjithatë duhet të filloni të largoni. Largoni rrobat duke iu thënë lamtumirë. Do të ndiheni më të çliruar, dhe më të organizuar"
+excerpt = "Dollapi im i parë ishte një paketë, dhe unë mblidhja më shumë sosh që të ndaja gjërat sipas kategorive."
 hero = "/images/micheile-henderson-micheile010-visual-stories-nl-FpPcoOAk5PI-unsplash.jpg"
 timeToRead = 5
 title = "Të largosh rrobat për lamtumirë"
