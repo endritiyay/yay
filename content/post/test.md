@@ -2,7 +2,7 @@
 authors = ["Dieta Bytyqi"]
 date = 2020-01-27T23:00:00Z
 excerpt = "pjesa interesante"
-hero = "/images/micheile-henderson-micheile010-visual-stories-nl-FpPcoOAk5PI-unsplash.jpg"
+hero = "/images/auto_1doc_filmiqendresaA1511767337.jpg"
 timeToRead = 4
 title = "Test"
 
