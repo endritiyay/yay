@@ -35,7 +35,6 @@ fields:
   type: file
   config:
     maxSize: 250
-    {{ $image := $resource.Fit "600x400" }} 
   label: Hero Image
   config:
     maxSize: 250
