@@ -35,6 +35,15 @@ fields:
   type: file
   config:
     maxSize: 250
+    max-width: 100%
+    <img 
+srcset="
+{{ .baseURL }}/w_500{{ .image }} 500w,
+{{ .baseURL }}/w_710{{ .image }} 710w,
+{{ .baseURL }}/w_1000{{ .image }} 1000w,
+{{ .baseURL }}/w_1420{{ .image }} 1420w"
+src="{{ .baseURL }}/w_500{{ .image }}"
+    />
   label: Hero Image
 - name: authors
   type: tag_list
