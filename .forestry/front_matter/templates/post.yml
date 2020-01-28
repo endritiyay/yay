@@ -35,7 +35,10 @@ fields:
   type: file
   config:
     maxSize: 250
+    {{ $image := $resource.Fit "600x400" }} 
   label: Hero Image
+  config:
+    maxSize: 250
 - name: authors
   type: tag_list
   default: []
