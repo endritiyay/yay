@@ -1,7 +1,6 @@
 +++
 authors = ["Dieta Bytyqi"]
 date = 2020-01-24T23:00:00Z
-draft = true
 excerpt = "Dollapi im i parë ishte një paketë, dhe unë mblidhja më shumë sosh që të ndaja gjërat sipas kategorive."
 hero = "/images/micheile-henderson-micheile010-visual-stories-nl-FpPcoOAk5PI-unsplash.jpg"
 timeToRead = 5
