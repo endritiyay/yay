@@ -34,23 +34,10 @@ fields:
 - name: hero
   type: file
   config:
-    <img 
-srcset="
-{{ .baseURL }}/ar_4:3,c_fill,g_auto/w_500{{ .image }} 500w,
-{{ .baseURL }}/ar_4:3,c_fill,g_auto/w_710{{ .image }} 710w,
-{{ .baseURL }}/ar_4:3,c_fill,g_auto/w_1000{{ .image }} 1000w,
-{{ .baseURL }}/ar_4:3,c_fill,g_auto/w_1420{{ .image }} 1420w"
-src="{{ .baseURL }}/ar_4:3,c_fill,g_auto/w_500{{ .image }}"
-    />
+  maxSize: 250
   label: Hero Image
-  config: <img 
-srcset="
-{{ .baseURL }}/ar_4:3,c_fill,g_auto/w_500{{ .image }} 500w,
-{{ .baseURL }}/ar_4:3,c_fill,g_auto/w_710{{ .image }} 710w,
-{{ .baseURL }}/ar_4:3,c_fill,g_auto/w_1000{{ .image }} 1000w,
-{{ .baseURL }}/ar_4:3,c_fill,g_auto/w_1420{{ .image }} 1420w"
-src="{{ .baseURL }}/ar_4:3,c_fill,g_auto/w_500{{ .image }}"
-    />
+  config:
+  maxSize: 250
 - name: authors
   type: tag_list
   default: []
