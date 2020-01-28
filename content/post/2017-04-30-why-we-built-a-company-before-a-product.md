@@ -9,6 +9,21 @@ authors:
 - Dieta Bytyqi
 
 ---
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 Dollapi im i parë ishte një paketë, dhe unë mblidhja më shumë sosh që të ndaja gjërat sipas kategorive.  
 Shpesh u hidhemi pas fotografive, për të kaluarën. Rrobat që kishim veshur, qorapet thurur nga gjyshja e lodrat e preferuara. Të gjitha kanë një vend, diku në shtëpi. Janë “bredhi” që zbresim poshtë, por jo në një datë të caktuar. Kur filluam ecjen bëmë gabimin tonë të parë, duke i ndërruar anën këpucëve. Më vonë, filluam të marrim vetë vendimet, duke lidhur tonjat e këpucëve. Prapë gabuam, duke i shkaktuar vetes kokëçarje për t’i zgjidhur nyjet. Por, këtu filluam të mësuarit.
