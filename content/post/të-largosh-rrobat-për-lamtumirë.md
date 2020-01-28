@@ -2,7 +2,7 @@
 authors = ["Dieta Bytyqi"]
 date = 2020-01-24T23:00:00Z
 excerpt = "Dollapi im i parë ishte një paketë, dhe unë mblidhja më shumë sosh që të ndaja gjërat sipas kategorive. Shpesh u hidhemi pas fotografive, "
-hero = "/images/micheile-henderson-micheile010-visual-stories-nl-FpPcoOAk5PI-unsplash.jpg"
+hero = "/images/0*ZuIrnVbj4eKhECUp.jpg"
 timeToRead = 5
 title = "Të largosh rrobat për lamtumirë"
 
