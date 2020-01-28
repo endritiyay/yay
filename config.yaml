@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "/"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Dieta Bytyqi"
 pygmentsstyle: 'monokai'
 
 # Theme settings
@@ -15,3 +15,4 @@ social:
   youtube: "#"
 taxonomies:
   author: authors
+ 
