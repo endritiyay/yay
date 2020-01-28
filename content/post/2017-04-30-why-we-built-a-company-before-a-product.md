@@ -1,7 +1,7 @@
 ---
 title: Të largosh rrobat për lamtumirë
 date: 2017-04-30
-hero: "/images/micheile-henderson-micheile010-visual-stories-nl-FpPcoOAk5PI-unsplash.jpg"
+hero: "/images/pexels-photo-3617531.jpeg"
 excerpt: 'Dollapi im i parë ishte një paketë, dhe unë mblidhja më shumë sosh që të
   ndaja gjërat sipas kategorive.Shpesh u hidhemi pas fotografive, '
 timeToRead: 3
