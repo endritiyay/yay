@@ -2,13 +2,12 @@
 authors = ["Dieta Bytyqi"]
 date = 2020-01-24T23:00:00Z
 excerpt = "Dollapi im i parë ishte një paketë, dhe unë mblidhja më shumë sosh që të ndaja gjërat sipas kategorive. Shpesh u hidhemi pas fotografive, "
-hero = "/images/micheile-henderson-micheile010-visual-stories-nl-FpPcoOAk5PI-unsplash.jpg"
+hero = "/images/rsz_1micheile-henderson-micheile010-visual-stories-nl-fppcooak5pi-unsplash.jpg"
 timeToRead = 5
 title = "Të largosh rrobat për lamtumirë"
 
 +++
-
-![](/images/favicon.svg)Dollapi im i parë ishte një paketë, dhe unë mblidhja më shumë sosh që të ndaja gjërat sipas kategorive.  
+Dollapi im i parë ishte një paketë, dhe unë mblidhja më shumë sosh që të ndaja gjërat sipas kategorive.  
 Shpesh u hidhemi pas fotografive, për të kaluarën. Rrobat që kishim veshur, qorapet thurur nga gjyshja e lodrat e preferuara. Të gjitha kanë një vend, diku në shtëpi. Janë “bredhi” që zbresim poshtë, por jo në një datë të caktuar. Kur filluam ecjen bëmë gabimin tonë të parë, duke i ndërruar anën këpucëve. Më vonë, filluam të marrim vetë vendimet, duke lidhur tonjat e këpucëve. Prapë gabuam, duke i shkaktuar vetes kokëçarje për t’i zgjidhur nyjet. Por, këtu filluam të mësuarit.
 
 Veshja është njëra ndër gjërat të cilat na ndihmojnë të shprehemi nëpërmjet saj, dhe na bënë të ndihemi mirë me veten. Pavarësisht ngjyrave, të gjitha rrobat mund të kenë një kuptim të veçantë. Një ditë e pasigurt mund të ndërlidhet me mënyrën e veshjes tonë, madje edhe duke hezituar të shfaqemi në prani të shumë njerëzve.
