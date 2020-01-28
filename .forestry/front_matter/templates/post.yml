@@ -33,15 +33,14 @@ fields:
     step: 
 - name: hero
   type: file
-  config:
+  config: 
   maxSize: 250
   label: Hero Image
-  config:
-  maxSize: 250
 - name: authors
   type: tag_list
   default: []
   label: Authors
 pages:
+- content/post/poa.md
 - content/post/test.md
 - content/post/test2.md
