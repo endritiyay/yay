@@ -1,7 +1,6 @@
 +++
-authors = []
+authors = ["Dieta Bytyqi"]
 date = 2020-01-24T23:00:00Z
-draft = true
 excerpt = "Dollapet mund të jenë mbajtësit tonë të sekretve që nuk duam t’i shpalosim kurrë, megjithatë duhet të filloni të largoni. Largoni rrobat duke iu thënë lamtumirë. Do të ndiheni më të çliruar, dhe më të organizuar"
 hero = "/images/micheile-henderson-micheile010-visual-stories-nl-FpPcoOAk5PI-unsplash.jpg"
 timeToRead = 5
