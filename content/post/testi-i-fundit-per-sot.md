@@ -1,7 +1,6 @@
 +++
 authors = ["Dieta Bytyqi"]
 date = 2020-01-14T23:00:00Z
-draft = true
 excerpt = "srz e kom "
 hero = "/images/new.jpg"
 timeToRead = 10
